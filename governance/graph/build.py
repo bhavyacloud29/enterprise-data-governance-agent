@@ -82,7 +82,8 @@ def main() -> None:
     ap.add_argument("--dataset", default="synthetic")
     ap.add_argument("--path")
     ap.add_argument("--llm", action="store_true")
-    ap.add_argument("--backend", default="auto", choices=["auto", "groq", "off", "echo"])
+    ap.add_argument("--backend", default="auto",
+                    choices=["auto", "groq", "grok", "off", "echo"])
     ap.add_argument("--diagram", action="store_true",
                     help="print the graph structure and exit")
     args = ap.parse_args()
