@@ -4,6 +4,9 @@ A multi-agent system that profiles a dataset, scores its quality, classifies and
 masks personal data, ranks findings by risk, and routes the serious ones to a
 human before anything is acted on.
 
+
+[36e7c464-818e-4352-9e1a-d50d96ae8b81.webm](https://github.com/user-attachments/assets/efed8449-7587-44a5-8d3e-baf26484edb1)
+
 ## The one design rule
 
 **Rules decide. The language model explains.**
