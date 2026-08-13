@@ -4,7 +4,7 @@ A multi-agent system that profiles a dataset, scores its quality, classifies and
 masks personal data, ranks findings by risk, and routes the serious ones to a
 human before anything is acted on.
 
-[Watch Demo](https://github.com/Bhavyacloud29/enterprise-data-governance-agent/blob/Bhavya/demo/demo_video.mp4)
+[Watch Demo](https://github.com/Bhavyacloud29/enterprise-data-governance-agent/blob/Bhavya/demo/36e7c464-818e-4352-9e1a-d50d96ae8b81.webm)
 ## The one design rule
 
 **Rules decide. The language model explains.**
